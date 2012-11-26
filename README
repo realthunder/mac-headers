@@ -1,0 +1,9 @@
+Private headers collected from OSX 10.8.2 and XCode 4.5.3 based on instruction  
+found in http://www.saurik.com/id/4. This is a partial collection stopped 
+before the "Secruity" headers. 
+
+See http://github.com/realthunder/mac-headers/collect.sh for details. 
+
+To use some of the headers, you probably need PRIVATE=1 defined before 
+inclusion.
+
